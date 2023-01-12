@@ -13,44 +13,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Ol%C3%A1%20Mundo!%F0%9F%98%8E%EF%B8%8F&fontColor=ffffff&fontSize=64&animation=fadeIn&type=waving&color=0:00cecf,50:00dfc6,100:8696e9&height=100"/>
-</p>
+# Agência Net
 
-</br>
+Agência de marketing digital
 
-<h2 align="center">Vamos bater um papo? 💬</h2>
+Se está perdido e não sabe o que precisa, podemos ajudar. <br>Temos hospedagem e infraestrutura, e-mails, suporte, e-mail marketing, SEO e muito mais!
 
-</br>
+Vamos bater um papo? 💬
 
-<p align="center">
+<p>
   <a href="https://www.facebook.com/agencianet.net.br/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Facebook-50.png"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
   
   <a href="https://www.linkedin.com/company/agencianet/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/LinkedIn-50.png"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.youtube.com/channel/UCT0yCcJZEpxxK6EvwhuwRBg">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Youtube-50.png"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   
   <a href="https://www.instagram.com/agencianet/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Instagram-50.png"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   
   <a href="https://twitter.com/agencianetbr">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Twitter-50.png"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-</p>
-
-</br></br>
-
-<h3 align="center">Um pouco sobre nós 🙈</h3>
-
-<p align="center">
-  <img src="https://github.com/agencianetrs/agencianetrs/blob/main/monkey-developer.gif" alt="Macacao dev"/>
 </p>
 
 ```javascript
@@ -80,8 +66,6 @@ Here are some ideas to get you started:
     A AgênciaNet sela um forte compromisso com seus clientes, através do monitoramento, manutenção e honestidade.
   `);
 ```
-
-</br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
