@@ -54,7 +54,7 @@ Vamos bater um papo? 💬
     
     ceo: "Aroldo Paulo Bulla",
     
-    slogan: "#VamosJuntosNessa",
+    slogan: "Sua agência de web mais completa",
     
     experiência: "Mais de 20 anos",
     
